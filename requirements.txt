@@ -1,0 +1,5 @@
+streamlit
+exa_py
+groq
+requests
+bs4
